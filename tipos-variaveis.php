@@ -10,6 +10,13 @@ echo "$nomeCompleto"."<br>";
 echo "$nome1"."<br>";
 echo "$_nome"."<br>";
 
+//unset($_nome, $anoNascismento, $nome1, $nomeCompleto);
+
+echo "$anoNascismento"."<br>";
+echo "$nomeCompleto"."<br>";
+echo "$nome1"."<br>";
+echo "$_nome"."<br>";
+
 //comentarios
 
 ?>
