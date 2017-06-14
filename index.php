@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "Meu primeiro código PHP! Hello Word";
+        echo "Meu primeiro código PHP! Hello Word. teste";
         ?>
     </body>
 </html>
